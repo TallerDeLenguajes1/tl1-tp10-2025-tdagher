@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomas\\taller-de-lenguaje-1\\tl1-tp10-2025-tdagher\\tl1-tp10-2025-tdagher.csproj",
-      "projectName": "tl1-tp10-2025-tdagher",
-      "projectPath": "C:\\Users\\tomas\\taller-de-lenguaje-1\\tl1-tp10-2025-tdagher\\tl1-tp10-2025-tdagher.csproj",
+      "projectUniqueName": "C:\\Users\\tomas\\taller-de-lenguaje-1\\tl1-tp10-2025-tdagher\\Tareas\\Tareas.csproj",
+      "projectName": "Tareas",
+      "projectPath": "C:\\Users\\tomas\\taller-de-lenguaje-1\\tl1-tp10-2025-tdagher\\Tareas\\Tareas.csproj",
       "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomas\\taller-de-lenguaje-1\\tl1-tp10-2025-tdagher\\obj\\",
+      "outputPath": "C:\\Users\\tomas\\taller-de-lenguaje-1\\tl1-tp10-2025-tdagher\\Tareas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tomas\\AppData\\Roaming\\NuGet\\NuGet.Config"
